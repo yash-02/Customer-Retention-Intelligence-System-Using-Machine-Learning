@@ -2,6 +2,11 @@
 pandas
 numpy
 scikit-learn
+imbalanced-learn
+xgboost
 joblib
 matplotlib
 seaborn
+shap
+scipy
+jupyter
